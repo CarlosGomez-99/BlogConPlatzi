@@ -5,3 +5,5 @@ Carlos tiene 23 años y nació en Colombia.
 A Carlos le gusta programar y aspira un día ser desarrollador Full-Stack
 
 Carlos esta aprendiendo Git con Platzi <3.
+
+Le gusta esta calse.
